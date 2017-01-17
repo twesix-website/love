@@ -25,3 +25,5 @@ setInterval(function()
 }, 500);
 
 $("#code").typewriter();
+
+$("#main_div").css('visibility','visible');
