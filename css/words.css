@@ -1,0 +1,50 @@
+#words_wrapper
+{
+    width:60%;
+    height:100%;
+    margin:0;
+    padding:0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 3s ease-out;
+}
+#words
+{
+    margin:0;
+    padding:0;
+    font-family:"微软雅黑 Light","Monaco","Bitstream Vera Sans Mono","Courier New","sans-serif";
+    color:#666;
+}
+#words h3,
+#words h2
+{
+    margin:0;
+}
+#messages
+{
+    transition: all 3s ease-out;
+    opacity:0;
+}
+#elapse_clock
+{
+    transition: all 3s ease-out;
+    opacity:0;
+    font-family:"Consolas","Monaco","Bitstream Vera Sans Mono","Courier New","sans-serif";
+    padding-top:30px;
+}
+#elapse_clock .digit
+{
+    padding-top:50px;
+    font-family:"digit","Consolas","Monaco","Bitstream Vera Sans Mono","Courier New","sans-serif";
+}
+#love_you
+{
+    transition: all 3s ease-out;
+    opacity:0;
+    padding-top:60px;
+    text-align:right;
+    padding-right:30px;
+    padding-bottom:30%;
+    font-style:italic
+}
