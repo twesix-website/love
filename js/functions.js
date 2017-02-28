@@ -102,7 +102,7 @@ function show_words()
         setTimeout(function()
         {
             $('#love_you').css('opacity',1);
-            document.getElementById('background_music').play();
+            // document.getElementById('background_music_1').play();
         },3000);
     },3000);
 }
