@@ -7,8 +7,8 @@ var heart_zoom_ratio=parseInt(offset_y/17);
 
 $("words").css('font-size',offset_y/20);
 var together = new Date();
-together.setFullYear(2017, 0, 0);
-together.setHours(0);
+together.setFullYear(2017, 3, 2);
+together.setHours(19);
 together.setMinutes(0);
 together.setSeconds(0);
 together.setMilliseconds(0);

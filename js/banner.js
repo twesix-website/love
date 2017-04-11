@@ -1,1 +1,1 @@
-console.log('%c想知道我喜欢的人是谁？\n告诉我左边的代码（JavaScript)能够运行所需的前提条件\n我会告诉你的\n说到做到，决不食言。','color:blue;font-family:微软雅黑 Light;font-size:20px;');
+console.log('%c想知道我喜欢谁？\n告诉我左边的代码（JavaScript)能够运行所需的前提条件（Strict Mode),我就告诉你\n说到做到，决不食言。','color:#D170FF; font-family:微软雅黑 Light;font-size:20px;');
